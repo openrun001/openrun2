@@ -38,7 +38,6 @@ const GALLERY_ITEMS = [
 // ============================================================
 const VIDEO_ITEMS = [
   
-
   {
     type: "link",
     url: "https://www.instagram.com/sunsazang?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
@@ -46,7 +45,7 @@ const VIDEO_ITEMS = [
     description: "선사장 맛집소개 릴스",
     thumbnail: "assets/portfolio-meat.jpg"
   },
-
+  
 ];
 
 const CATEGORY_NAMES = {
