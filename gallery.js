@@ -37,12 +37,8 @@ const GALLERY_ITEMS = [
 // https://blog.naver.com/...
 // ============================================================
 const VIDEO_ITEMS = [
-  {
-    type: "youtube",
-    url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    title: "촬영 현장 영상",
-    description: "이 주소를 실제 유튜브 영상 주소로 교체하세요."
-  },
+  
+
   {
     type: "link",
     url: "https://www.instagram.com/sunsazang?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
@@ -50,13 +46,7 @@ const VIDEO_ITEMS = [
     description: "선사장 맛집소개 릴스",
     thumbnail: "assets/portfolio-meat.jpg"
   },
-  {
-    type: "link",
-    url: "https://blog.naver.com/",
-    title: "네이버 촬영 후기",
-    description: "네이버 블로그 또는 영상 주소로 교체하세요.",
-    thumbnail: "assets/portfolio-korean.jpg"
-  }
+
 ];
 
 const CATEGORY_NAMES = {
